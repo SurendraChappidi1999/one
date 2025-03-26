@@ -1,6 +1,5 @@
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<h1 style="color: red; font-family: mistral; text-align: center; background-color: yellow">Surendra</h1>
     <title>Basic Web Application</title>
     <style>
         body {
