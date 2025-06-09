@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -48,7 +47,7 @@
 
 
     <h1 class="dragon-title">Dragon</h1>
-    
+    <h1 class="dragon-title">KUMAR</h1>
     <h1 class="highlight">NTR</h1>
     <h1 class="highlight-mistral">Surendra Kumar</h1>
     <h1 class="highlight-mistral">SURENDRA</h1>
