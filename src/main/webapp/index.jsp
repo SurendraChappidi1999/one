@@ -59,7 +59,7 @@
     <h1 class="message pink">WE SUCCESSFULLY DEPLOYED OUR APPLICATION</h1>
     <h1 class="message red">WE INTEGRATED NEXUS TO JENKINS</h1>
 
-    <h1 class="black-bg">Surendra</h1>
+    <h1 class="black-bg">Surendra kumar</h1>
     <h1 class="black-bg small-text">Surendra Chappidi</h1>
 
 </body>
