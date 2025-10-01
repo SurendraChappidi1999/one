@@ -1,6 +1,5 @@
 
-<head>
-    <meta charset="UTF-8">
+
     
     <title>Some Relevant Title</title>
     <style>
